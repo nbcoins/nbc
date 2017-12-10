@@ -1,4 +1,8 @@
 Cryptocurrency based on CryptoNote -> NBC (NB Coins)
+
+For anyone who wants to own some coins. You can download NB Coins, compile it. Mine yourself some coins.
+And if you dont want to bother to mine. Drop me a mail (derzeter@gmail.com), and I will send you some NBC.
+
 Please read the following to cmopile it :
 
 ** Compile the binaries**
